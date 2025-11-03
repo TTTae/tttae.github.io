@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 2nd-year PhD student at Dartmouth College advised by Prof. [Yujun Yan](https://sites.google.com/umich.edu/yujunyan/home).
-Previously, I spent one year at Amazon Alexa Speech Recognition team. I received my CS master's degree from University of Virginia, advised by Prof. [Jundong Li](http://www.ece.virginia.edu/~jl6qk/). My [CV](https://tttae.github.io/zheng_huang.pdf).
+I am a 3rd-year PhD student at Dartmouth College advised by Prof. [Yujun Yan](https://sites.google.com/umich.edu/yujunyan/home).
+Previously, I received my CS master's degree from University of Virginia, advised by Prof. [Jundong Li](http://www.ece.virginia.edu/~jl6qk/). My [CV](https://tttae.github.io/zheng_huang.pdf).
 
 
 Research Interest
@@ -17,7 +17,6 @@ I am interested in **Machine Learning** and **Large Language Models (LLMs)**, in
 
    * **Graph ML**: Designing frameworks for diverse graph-structured to enhance model generalization and applying graph ML models to real-world applications, such as recommender systems
    * **Multimodal LLMs**: Developing multimodal LLM frameworks to bridge neuroscience and computer vision & natural language processing to understand how the human brain processes and represents knowledge
-  * **Federated Learning (FL)**: Building FL systems to make life-long learning possible and mitigate privacy risks \& training costs resulting from traditional, centralized machine learning 
     
 
 Education
