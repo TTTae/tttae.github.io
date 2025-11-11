@@ -13,10 +13,14 @@ Previously, I received my CS master's degree from University of Virginia, advise
 
 Research Interest
 ===
-I am interested in **Machine Learning** and **Large Language Models (LLMs)**, including:
+I am interested in **Large Language Models** and **Machine Learning (ML)**, including:
 
-   * **Graph ML**: Designing frameworks for diverse graph-structured to enhance model generalization and applying graph ML models to real-world applications, such as recommender systems
-   * **Multimodal LLMs**: Developing multimodal LLM frameworks to bridge neuroscience and computer vision & natural language processing to understand how the human brain processes and represents knowledge
+   * **Large Language Models**: Exploring diffusion language models and instruction-tuned LLMs to investigate knowledge representation and learning dynamics, guided by neuroscience-inspired insights into intelligence and reasoning
+   * **Machine Learning (ML)**: Developing multimodal LLM frameworks to bridge neuroscience and computer vision & natural language processing to understand how the human brain processes and represents knowledge
+
+
+
+
     
 
 Education
