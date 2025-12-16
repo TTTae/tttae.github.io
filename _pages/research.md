@@ -22,7 +22,7 @@ Seeing Through the Brain: New Insights from Decoding Visual Stimuli with fMRI
 ========
 * __Zheng Huang__, Enpei Zhang, Yinghao Cai, Weikang Qiu, Carl Yang, Elynn Chen, Xiang Zhang, Rex Ying, Dawei Zhou, Yujun Yan
 * Under Review [[Arxiv]](https://arxiv.org/abs/2510.16196)
-  * Proposed **PRISM**, a structured text–based fMRI decoding framework that leverages language models as a brain-aligned intermediate representation for diffusion image reconstruction
+  * Proposed PRISM, a structured text–based fMRI decoding framework that uses language models as a brain-aligned intermediate representation to guide diffusion-based reconstruction of viewed images
   * Introduced object-centric diffusion and automatic attribute–relationship prompt optimization to enable compositional, spatially grounded image generation
   * Validated the framework through comprehensive experiments and ablations, demonstrating state-of-the-art reconstruction quality and semantic fidelity across multiple benchmarks
   * Conducted systematic analyses of diffusion models and supervised fine-tuning for large language models 
