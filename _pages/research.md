@@ -10,7 +10,7 @@ author_profile: true
 Diffusion Language Model Inference with Monte Carlo Tree Search
 ======
 * __Zheng Huang__, Kiran Ramnath, Yueyan Chen, Aosong Feng, Sangmin Woo, Balasubramaniam Srinivasan, Zhichao Xu, Kang Zhou, Shuai Wang, Haibo Ding, Lin Lee Cheong
-* Under Review [[Arxiv]](https://arxiv.org/abs/2512.12168)
+* EACL 2026 [[Arxiv]](https://arxiv.org/abs/2512.12168)
 
   * Investigated reasoning and uncertainty estimation in diffusion large language models (DLMs)
   * Developed a novel MCTS framework based on token-level uncertainty to optimize DLMs initialization
