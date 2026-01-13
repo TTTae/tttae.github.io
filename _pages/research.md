@@ -26,7 +26,8 @@ Seeing Through the Brain: New Insights from Decoding Visual Stimuli with fMRI
 
   * Proposed PRISM, a fMRI decoding framework that uses language models as a brain-aligned intermediate representation for diffusion-based image reconstruction.
   * Supervised fine-tuned a language model on structured, object-centric text to align textual representations with fMRI signals.
-  * Designed an agentic LLM-based prompt optimization loop to discover brain-aligned object attributes and relationships.
+  * Designed an agentic prompt optimization loop that iteratively discovers brain-aligned object attributes and
+relationships.
   * Introduced an object-centric diffusion framework with spatially grounded cross-attention for text-guided image generation.
   * Conducted systematic analyses of supervised fine-tuning in large language models, and inference behavior in diffusion models.
 
