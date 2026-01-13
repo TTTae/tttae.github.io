@@ -15,8 +15,10 @@ Research Interest
 ===
 I am interested in **Large Language Models** and **Machine Learning (ML)**, including:
 
-   * **Large Language Models**: Exploration of how large language models and diffusion-based language models represent and reason with knowledge, and how insights from neuroscience can inform the development of more robust, interpretable, and cognitively grounded models
-   * **Graph ML**:  Designing frameworks for diverse graph data to enhance model generalizability and applying graph ML models to real-world applications, such as recommender systems
+   * **Foundation Model Post-Training**: Supervised fine-tuning and inference-time methods for large language and diffusion-based language models, with a focus on reasoning, uncertainty, and interpretability informed by neuroscience.
+
+   * **Graph Machine Learning**: Generalizable graph learning frameworks for heterogeneous relational data, with applications to recommender systems.
+
 
 
 
