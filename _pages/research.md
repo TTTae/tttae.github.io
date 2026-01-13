@@ -12,20 +12,23 @@ Diffusion Language Model Inference with Monte Carlo Tree Search
 * __Zheng Huang__, Kiran Ramnath, Yueyan Chen, Aosong Feng, Sangmin Woo, Balasubramaniam Srinivasan, Zhichao Xu, Kang Zhou, Shuai Wang, Haibo Ding, Lin Lee Cheong
 * EACL 2026 [[Arxiv]](https://arxiv.org/abs/2512.12168)
 
-  * Investigated reasoning and uncertainty estimation in diffusion large language models (DLMs)
-  * Developed a novel MCTS framework based on token-level uncertainty to optimize DLMs initialization
-  * Designed a task-splitting strategy to decompose complex problems into subtasks and guide DLM generation
-  * Conducted in-depth studies on post-training, probabilistic sampling, and reasoning in diffusion language models  
+  * Investigated inference-time reasoning in diffusion language models by framing generation as a structured search problem.
+  * Developed an MCTS-based decoding framework to improve long-horizon reasoning under token-level uncertainty.
+  * Designed uncertainty-aware rewards and confidence-guided filtering to enable principled reasoning without additional training.
+  * Conducted extensive empirical and theoretical analyses of reasoning and sampling strategies in large language models.
+
 
 
 Seeing Through the Brain: New Insights from Decoding Visual Stimuli with fMRI
 ========
 * __Zheng Huang__, Enpei Zhang, Yinghao Cai, Weikang Qiu, Carl Yang, Elynn Chen, Xiang Zhang, Rex Ying, Dawei Zhou, Yujun Yan
 * Under Review [[Arxiv]](https://arxiv.org/abs/2510.16196)
-  * Proposed PRISM, a structured fMRI decoding framework that uses language models as a brain-aligned intermediate representation to guide diffusion-based reconstruction of viewed images
-  * Introduced object-centric diffusion and automatic attribute–relationship prompt optimization to enable compositional, spatially grounded image generation
-  * Validated the framework through comprehensive experiments and ablations, demonstrating state-of-the-art reconstruction quality and semantic fidelity across multiple benchmarks
-  * Conducted systematic analyses of diffusion models and supervised fine-tuning for large language models 
+
+  * Proposed PRISM, a fMRI decoding framework that uses language models as a brain-aligned intermediate representation for diffusion-based image reconstruction.
+  * Supervised fine-tuned a language model on structured, object-centric text to align textual representations with fMRI signals.
+  * Designed an agentic LLM-based prompt optimization loop to discover brain-aligned object attributes and relationships.
+  * Introduced an object-centric diffusion framework with spatially grounded cross-attention for text-guided image generation.
+  * Conducted systematic analyses of supervised fine-tuning in large language models, and inference behavior in diffusion models.
 
 
 
