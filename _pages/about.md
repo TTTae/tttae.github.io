@@ -13,7 +13,7 @@ Previously, I received my CS master's degree from University of Virginia, advise
 
 Research Interest
 ===
-I am interested in **Large Language Models** and **Machine Learning (ML)**, including:
+I am interested in **Foundation Models** and **Machine Learning**, including:
 
    * **Foundation Model Post-Training**: Supervised fine-tuning and inference-time methods for large language and diffusion-based language models, with a focus on reasoning, uncertainty, and interpretability informed by neuroscience.
 
