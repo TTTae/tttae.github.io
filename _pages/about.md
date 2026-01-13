@@ -15,10 +15,11 @@ Research Interest
 ===
 I am interested in **Foundation Models** and **Machine Learning**, including:
 
-   * **Foundation Model Post-Training**: Designing supervised fine-tuning and inference-time methods for large language and diffusion-based language models to encourage reasoning behaviors that are better aligned with human thinking and are interpretable, inspired by neuroscience.
+   * **Foundation Model Post-Training**: I aim to shape reasoning behaviors in language models to better align with human thinking.
+My work focuses on supervised fine-tuning and inference-time methods for LLMs and diffusion-based language models. I also extend my research to interdisciplinary domains such as neuroscience.
 
-   * **Graph Machine Learning**: Generalizable graph learning frameworks for heterogeneous relational data, with applications to recommender systems.
 
+   * **Graph Machine Learning**: I study graph learning frameworks that generalize across heterogeneous relational data, with applications to recommender systems and real-world tasks.
 
 
 
